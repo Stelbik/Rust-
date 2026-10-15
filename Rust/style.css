@@ -1,0 +1,36 @@
+body {
+    background-color: #5432;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    }
+    
+    .header {
+    background-color: #354832;
+    color: white;
+    padding: 15px;
+    }
+    
+    
+    
+    .menu a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    }
+    
+
+    h2 {
+    color: #354832;
+    }
+    
+    p {
+    font-size: 18px;
+    }
+    
+    img {
+    max-width: 100%;
+    height: auto;
+    }
+    
+
